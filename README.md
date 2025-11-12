@@ -1,4 +1,4 @@
-# Welcome to @HazeBlue's GitHub!
+# Welcome to @mrhazeblue's GitHub!
 
 👨‍💻 About Me:
 I'm an AI enthusiast with a keen interest in the evolving narrative of artificial intelligence. My journey is fueled by a desire to understand and harness AI's potential to amplify human creativity and intelligence.
