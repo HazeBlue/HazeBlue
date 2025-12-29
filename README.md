@@ -19,5 +19,9 @@ Feel free to reach out to me for any AI-related discussions or collaborations. Y
 - Microsoft: Mr.hazeblue@outlook.com
 - Proton: Mrhazeblue@proton.me
 
+Of course, you can also give me BTC so I can experience the joy of receiving money from a stranger and the thrill of sudden wealth. Of course, if you give it, it's entirely voluntary, and I won't return it. I only accept BTC. Below is my address, SEGWIT only:👇:
+
+bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
+
 🚀 Quick Fact:
 AI is not just a part of my work; it's a part of my story. Join me in this journey as we explore the endless possibilities of artificial intelligence together!
