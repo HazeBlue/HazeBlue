@@ -23,5 +23,7 @@ Of course, you can also give me BTC so I can experience the joy of receiving mon
 
 bc1qk0wxq3dhy5rfyjzqqa6l4k26p4cggrr2cdcrtr
 
+ETHandUSDT：0x3ea65897e87747Bea409aBcAe74F4c929083B91B
+
 🚀 Quick Fact:
 AI is not just a part of my work; it's a part of my story. Join me in this journey as we explore the endless possibilities of artificial intelligence together!
