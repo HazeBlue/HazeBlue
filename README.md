@@ -21,9 +21,29 @@ Feel free to reach out to me for any AI-related discussions or collaborations. Y
 
 Of course, you can also give me BTC so I can experience the joy of receiving money from a stranger and the thrill of sudden wealth. Of course, if you give it, it's entirely voluntary, and I won't return it. I only accept BTC. Below is my address, SEGWIT only:👇:
 
-bc1qk0wxq3dhy5rfyjzqqa6l4k26p4cggrr2cdcrtr
+BTC：bc1qsw97mw7jg0nfz6fh7u9u3sdda8dy5l9ss2tz8v
 
-ETHandUSDT：0x3ea65897e87747Bea409aBcAe74F4c929083B91B
+ETH：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
+
+USDT：TYZCFhCgHKFEM48z6y5ZCdu5CLdyz6ZdW4
+
+RNB：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
+
+TRON：TYZCFhCgHKFEM48z6y5ZCdu5CLdyz6ZdW4
+
+SOL：ExFpxJ1FL7fxiqgdcM8MeXsawPZ27wv3b6hxm4nPkZjn
+
+XRP：r4KkoQ4TdZDhmW6T2Wpu8FcJdVHJQ6daN3
+
+TON：UQAc5u0_QhDcvIjzLv7qTyOZi5xrg4285pvT-TlvEyxZ6ziA
+
+DOGE：DJNMzLzuW5rbkiygAiudNU4AcKWWMkwTYq
+
+USDE：ExFpxJ1FL7fxiqgdcM8MeXsawPZ27wv3b6hxm4nPkZjn
+
+Dai：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
+
+USDC：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
 
 🚀 Quick Fact:
 AI is not just a part of my work; it's a part of my story. Join me in this journey as we explore the endless possibilities of artificial intelligence together!
