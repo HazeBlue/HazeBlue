@@ -45,5 +45,7 @@ Dai：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
 
 USDC：0xa6b734F1cABa842F97c18A092fC77fa4f15EF225
 
+Cardano（ada）：addr1qxll50t4nug2e8vkrvawpyfg4e7jta7wzy29uevascl96cngyk250nsu4jefut4j2cx6mmtwzs6mgrpg2eecxe0wrwaseza2nc
+
 🚀 Quick Fact:
 AI is not just a part of my work; it's a part of my story. Join me in this journey as we explore the endless possibilities of artificial intelligence together!
